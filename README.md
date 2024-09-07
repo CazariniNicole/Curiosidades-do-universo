@@ -1,4 +1,4 @@
-## Desvendando os Mistérios do Universo: Um Guia Rápido
+## Desvendando os Mistérios do Universo: Um Guia Rápido - Imersão Dev com Google Gemini 
 
 **O que é essa aplicação?**
 
